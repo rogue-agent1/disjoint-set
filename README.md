@@ -1,9 +1,11 @@
-# disjoint_set
+# disjoint-set
 
-Union-Find with path compression, rank, component queries, weighted variant
+Union-Find with path compression and union by rank.
+
+## Usage
 
 ```bash
 python3 disjoint_set.py test
 ```
 
-Zero deps. Python 3.8+.
+Zero dependencies. Python 3.8+.
