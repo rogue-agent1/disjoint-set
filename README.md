@@ -1,10 +1,9 @@
-# Disjoint Set
+# disjoint_set
 
-A zero-dependency Python CLI tool.
-
-## Usage
+Union-Find with path compression, rank, component queries, weighted variant
 
 ```bash
-python disjoint_set.py test
-python disjoint_set.py demo
+python3 disjoint_set.py test
 ```
+
+Zero deps. Python 3.8+.
